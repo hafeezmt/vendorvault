@@ -1,0 +1,17 @@
+# Node
+node_modules/
+/dist/
+
+# Rust
+/target/
+
+# Solana
+/anchor.toml
+/target/
+
+# Environment
+.env
+.env.example
+
+# Misc
+.DS_Store
