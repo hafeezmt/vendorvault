@@ -1,0 +1,9 @@
+[programs.vendorvault]
+address = "PLACEHOLDER_PROGRAM_ID"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/vendorvault-dev.json"
+
+[workspace]
+members = ["programs/*"]
